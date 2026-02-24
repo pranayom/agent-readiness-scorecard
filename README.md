@@ -10,9 +10,9 @@
 
 Karpathy's tweet asks a simple question: **can AI agents actually use your product?**
 
-This repo is a direct response — a `SKILL.md` file that teaches any AI agent (Claude, Codex, Cursor, etc.) how to systematically audit a product or GitHub repo for agent-readiness and produce a scored report.
+So I created this repo as a direct response — a `SKILL.md` file that teaches any AI agent (Claude, Codex, Cursor, etc.) how to systematically audit a product or GitHub repo for agent-readiness and produce a scored report.
 
-The irony is intentional: *a Skill that scores whether you have Skills.*
+Please appreciate the irony: *a Skill that scores whether you have Skills.*
 
 ---
 
@@ -105,6 +105,6 @@ agent-readiness-scorecard/
 
 ## Author
 
-**Pranay Tiwari** — VP Data Science | AI/ML Systems | [LinkedIn](https://www.linkedin.com/in/pranay-tiwari)
+**Pranay Tiwari** — VP Data Science | [LinkedIn](https://www.linkedin.com/in/pranay-tiwari)
 
 *Built in response to [@karpathy](https://twitter.com/karpathy)'s call to build for agents.*
